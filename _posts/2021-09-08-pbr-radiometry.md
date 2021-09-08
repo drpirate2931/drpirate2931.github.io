@@ -1,6 +1,6 @@
 ---
 layout: article
-title: PBR note: radiometry
+title: PBR note - radiometry
 mathjax: true
 ---
 
