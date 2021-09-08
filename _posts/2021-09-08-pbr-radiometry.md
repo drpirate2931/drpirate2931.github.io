@@ -48,7 +48,7 @@ $$
 $$
 Lambert's Law:
 
-![Fig5.7](./images/pbr-fig-5-7.png)
+![Fig5.7](https://www.pbr-book.org/3ed-2018/Color_and_Radiometry/Lamberts%20Law.svg)
 $$
 E_2 = \frac{\Phi \cos{\theta}}{A_2}
 $$
@@ -57,12 +57,13 @@ $$
 
 2D case:
 
-![Fig5.8](./images/pbr-fig-5-8.png)
+![Fig5.8](https://www.pbr-book.org/3ed-2018/Color_and_Radiometry/Planar%20angle.svg)
 
 project the shaded object onto that circle, the arc $$ s $$ will be covered (the same as the angle $$\theta$$)
 
 3D case:
 
-![](./images/pbr-fig-5-9.png)
+![Fig5.9](https://www.pbr-book.org/3ed-2018/Color_and_Radiometry/Solid%20angle.svg)
 
 project it onto the sphere, the area will be covered, which is the same as **solid angle**. use $$\omega$$ to denote solid angle (normalized vector)
+
