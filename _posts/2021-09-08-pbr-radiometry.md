@@ -69,7 +69,7 @@ project it onto the sphere, the area will be covered, which is the same as **sol
 
 
 
-consider point $$p$$ as a light source, we can compute the angular density of emitted power, which is called **intensity**, denoted by $$I$$
+consider point $$p$$ as a light source, we can compute the angular density of emitted power, which is called **intensity**, denoted by $I$
 $$
 I = \frac{\Phi}{4 \pi} \space (unit \space sphere)
 $$
